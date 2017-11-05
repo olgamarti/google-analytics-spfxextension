@@ -1,0 +1,24 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "application-customizer-ga-client-side-solution",
+    "id": "a582b376-3bb8-417a-acf7-2a2f64601e92",
+    "version": "1.0.0.0",
+    "features": [
+      {
+        "title": "Google Analytics - SPFx Extensions",
+        "description": "Add Google Analytics to SharePoint Online modern sites",
+        "id": "737fa3b1-bec0-4bc0-b2b7-a33a2bd642ae",
+        "version": "1.0.0.0",
+        "assets": {
+          "elementManifests": [
+            "elements.xml"
+          ]
+        }
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/application-customizer-ga.sppkg"
+  }
+}

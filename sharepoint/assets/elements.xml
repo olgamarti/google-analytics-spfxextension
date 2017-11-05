@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <CustomAction
+        Title="GAnalytics"
+        Location="ClientSideExtension.ApplicationCustomizer"
+        ClientSideComponentId="79f800a6-9286-4965-891c-00017b35cd8d"
+        ClientSideComponentProperties="{&quot;gtag&quot;:&quot;UA-XXXXXXX-X&quot;}">
+    </CustomAction>
+</Elements>
